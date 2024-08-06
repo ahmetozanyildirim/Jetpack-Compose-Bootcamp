@@ -1,4 +1,4 @@
-    package com.example.myapplication.variables
+package com.example.myapplication.variables
 
 fun main() {
 
